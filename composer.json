@@ -1,0 +1,15 @@
+{
+    "name": "catalystfabricsolutions/cutlineprototype",
+    "description": "Proof of Concept that Cutlines can be dumped into PDFs",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Brian Reich",
+            "email": "breich@reich-consulting.net"
+        }
+    ],
+    "require": {
+        "tecnickcom/tcpdf": "^6.2"
+    }
+}
